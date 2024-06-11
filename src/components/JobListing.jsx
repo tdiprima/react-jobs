@@ -1,5 +1,3 @@
-import React from 'react'
-
 const JobListing = ({job}) => {
   return (
     <div className="bg-white rounded-xl shadow-md relative">

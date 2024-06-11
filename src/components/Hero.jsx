@@ -1,5 +1,3 @@
-import React from 'react'
-
 const Hero = ({
     title = 'React Jobs',
     description = 'Find the React job that fits your skills and needs'
